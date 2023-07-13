@@ -1,0 +1,26 @@
+.cart-section{
+    margin-top: 20px;
+}
+.cart-items{
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 5px 5px 0 0;
+    
+}
+.input-field{
+    width: 20px;
+    height: 20px;
+}
+.title{
+    margin-right: 20px;
+}
+.add-qnt{
+    margin-right: 20px;
+}
+.input-field{
+    margin: 0 5px 0 5px;
+}
+.price{
+    margin-right: 20px;
+}

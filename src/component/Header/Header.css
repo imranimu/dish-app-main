@@ -1,0 +1,19 @@
+.nav-container{
+    height: 60px;
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.nav-container a{
+    color: #0857cc;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+.nav-container a:hover{
+    color: #0e50b3;
+}

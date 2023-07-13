@@ -1,0 +1,28 @@
+.menu-container{
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+}
+.item-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin: 20px 20px;
+    
+}
+.cart-containers{
+    background-color: #f0f3f5;
+    height: 100%;
+    /* width: 400px; */
+    margin-left: 20px;
+    padding: 10px;
+    position: sticky;
+   
+}
+
+
+
+@media screen and (max-width:1100px) {
+    .products-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
